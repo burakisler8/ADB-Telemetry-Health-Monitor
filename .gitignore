@@ -1,0 +1,40 @@
+# Claude Code & development notes
+CLAUDE.md
+Phase 2.md
+requirements.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Logs & runtime output
+logs/
+*.log
+
+# Reports & telemetry data
+reports/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Settings (contains user-specific config)
+settings.json
